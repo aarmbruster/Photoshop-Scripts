@@ -3,7 +3,8 @@
 //
 //  Created by Andrew Armbruster on 2/26/12.
 //  Copyright (c) 2012 Minor Alchemy All rights reserved.
-//
+//  
+//  version 1.0
 
 
 #target photoshop
